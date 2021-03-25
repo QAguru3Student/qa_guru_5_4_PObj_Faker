@@ -29,7 +29,6 @@ public class DemoFillFormWithFakerPage {
 
     public void openPage() {
         open("https://demoqa.com/automation-practice-form");
-
     }
 
     public void fillForm() {
@@ -57,7 +56,6 @@ public class DemoFillFormWithFakerPage {
         $("#city").click();
         $(byText(city)).click();
         $("#submit").click();
-
     }
 
     public void checkForm() {

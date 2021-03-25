@@ -1,4 +1,4 @@
-package tests;
+package tests.scenarios;
 
 import org.junit.jupiter.api.Test;
 import tests.pages.DemoFillFormWithFakerPage;
